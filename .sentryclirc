@@ -2,7 +2,7 @@
 [defaults]
 url=https://sentry.io/
 org=xingxbai
-project=vue-test
+project=vue
 
 [auth]
 token=5d309808effa4bb6b3e97216441473a780b37a8624234148a0824fed05459150
