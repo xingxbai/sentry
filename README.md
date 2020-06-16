@@ -18,4 +18,4 @@ npm run build
 npm run build --report
 
 
-#只需要改变 sentry里的地址到，main.js 里的地址就可运行
+# 只需要改变 sentry里的地址到，main.js 里的地址就可运行
